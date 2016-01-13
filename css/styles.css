@@ -27,6 +27,7 @@ html, body {
 
 /* additional sections */
 #home {
+  background: url(../images/103_0043.jpg) no-repeat center center fixed; 
   display: table;
   height: 100%;
   position: relative;
@@ -36,7 +37,6 @@ html, body {
   -o-background-size: cover;
   background-size: cover;
 }
-
 
 #services {
   background-color: #8C001A;
